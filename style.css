@@ -1,0 +1,13 @@
+.bg-dark {
+    background-color: #160a28 !important;
+}
+
+.bg-normal {
+    background-color: #9254ff;
+}
+
+.card-container {
+    min-width: 10rem;
+    width: fit-content;
+    max-width: 30rem;
+}
